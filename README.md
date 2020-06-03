@@ -1,2 +1,2 @@
-# Lucid
-How to use Lucid
+# GIT
+How to use GIT
